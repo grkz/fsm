@@ -1,0 +1,17 @@
+###############################################################################
+Entry project 1		Finite State Machine, Class: Python in The Enterprise
+Author:			Grzegorz Kozicki	
+###############################################################################
+
+
+Simple ticket machine model (script written in Python)
+
+Machine has defined states in order to mimic Finit State Machine.
+However, it was written for purpose of learning basics of OO programming 
+in Python.
+
+The ctl module contains class State, which is a wrapper over cpu (core module),
+including state setter and current state getter.
+
+
+		MAIN SCRIPT FILE: fsm.py
